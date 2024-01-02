@@ -9,6 +9,8 @@
 // Explanation:
 // 1 + 2 + 4 = 7
 // There are no other valid combinations.
+#include <bits/stdc++.h>
+using namespace std;
 class Solution
 {
 public:
